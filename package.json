@@ -1,0 +1,23 @@
+{
+  "name": "authentification",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neilujerdan/authentification.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neilujerdan/authentification/issues"
+  },
+  "homepage": "https://github.com/neilujerdan/authentification#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
