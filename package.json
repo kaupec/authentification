@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/neilujerdan/authentification#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "@types/node": "^14.14.11",
+    "express": "^4.17.1",
+    "sqlite3": "^5.0.0"
   }
 }
